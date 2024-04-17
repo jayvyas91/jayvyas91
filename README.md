@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Jay Vyas
+- 👀 I’m interested in data crunching and generating actionalble insights and train AI models
+- 🌱 I’m currently learning Data Science and Machine Learning
+- 💞️ I’m looking to collaborate on data related projects
+- 📫 Reach me at www.linkedin.com/in/jv1995/
+- ⚡ Fun fact: Liverpool is the best football club
