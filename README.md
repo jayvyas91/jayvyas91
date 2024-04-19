@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on data related projects
 - 📫 Reach me at www.linkedin.com/in/jv1995/
-- ⚡ Fun fact: Liverpool is the best football club
-- 🧑‍💻 Tech Specs : SQL, Python liberaries (Numpy, Pandas, Matplotlib, Seaborns and counting...), Probability and Stats, DAV and counting...
+- 🧑‍💻 Tech Stack : SQL, Python liberaries (Numpy, Pandas, Matplotlib, Seaborns and counting...), Probability and Stats, DAV and counting...
