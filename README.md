@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jay Vyas
-- 👀 I’m interested in data crunching to generate actionalble insights and train AI models
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on data related projects
+- 👋 Hi, I’m @Jay Vyas!
+- 👀 I’m interested in data crunching to generate actionalble insights and train AI models.
+- 🌱 Experimenting with Data Science and Machine Learning.
+- 💞️ I’m looking to collaborate on data related projects.
 - 📫 Reach me at www.linkedin.com/in/jv1995/
-- 🧑‍💻 Tech Stack : SQL, Python (Numpy, Pandas, Matplotlib, Seaborns), Probability and Stats, DAV, Linear Algebra, Supervised/Unsupervised Algorithms, RecSys, MLOps, Neural Network, Computer Vision, Natural Language Processing, Generative AI and counting...
+- 🧑‍💻 Tech Stack : SQL, Python (Numpy, Pandas, Matplotlib, Seaborns), Probability and Stats, DAV, Linear Algebra, Supervised/Unsupervised Algorithms, RecSys, MLOps, Neural Network, Computer Vision, Natural Language Processing, Generative AI, Quantum AI and counting...
