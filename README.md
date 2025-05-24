@@ -2,5 +2,5 @@
 - 👀 I’m interested in generating actionalble insights and train AI models to generate business insights for protecting infrastructure and automation.
 - 🌱 Experimenting with Data Science and Machine Learning.
 - 💞️ Looking to collaborate on Cybersecurity data related projects.
-- 🧑‍💻 Tech Stack : SQL, Python (Numpy, Pandas, Matplotlib, Seaborns), Probability and Stats, DAV, Linear Algebra, Supervised/Unsupervised Algorithms, RecSys, MLOps, Neural Network, Computer Vision, Natural Language Processing, Generative AI, Quantum AI cryptography and counting...
+- 🧑‍💻 Tech Stack : Networking, Security, Pentest, SQL, Python, Linear Algebra, Supervised/Unsupervised Algorithms, MLOps, Neural Network, Computer Vision, NLP, Generative AI, Quantum AI cryptography and counting...
 - 📫 Reach me at www.linkedin.com/in/jv1995/
