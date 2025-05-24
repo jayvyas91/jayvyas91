@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jay Vyas!
-- 👀 I’m interested in data crunching to generate actionalble insights and train AI models.
+- 👋 Hi, I’m @Jay Vyas (Your Cyber Guy)
+- 👀 I’m interested in generating actionalble insights and train AI models to generate business insights for protecting infrastructure and automation.
 - 🌱 Experimenting with Data Science and Machine Learning.
-- 💞️ I’m looking to collaborate on data related projects.
+- 💞️ Looking to collaborate on Cybersecurity data related projects.
+- 🧑‍💻 Tech Stack : SQL, Python (Numpy, Pandas, Matplotlib, Seaborns), Probability and Stats, DAV, Linear Algebra, Supervised/Unsupervised Algorithms, RecSys, MLOps, Neural Network, Computer Vision, Natural Language Processing, Generative AI, Quantum AI cryptography and counting...
 - 📫 Reach me at www.linkedin.com/in/jv1995/
-- 🧑‍💻 Tech Stack : SQL, Python (Numpy, Pandas, Matplotlib, Seaborns), Probability and Stats, DAV, Linear Algebra, Supervised/Unsupervised Algorithms, RecSys, MLOps, Neural Network, Computer Vision, Natural Language Processing, Generative AI, Quantum AI and counting...
